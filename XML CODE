@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt_table.xsl"?>
+<catalog>
+<cd>
+<name>Miruthu</name>
+<rollno>18BCS021</rollno>
+<mark>80</mark>
+</cd>
+<cd>
+<name>Abi</name>
+<rollno>18BCS033</rollno>
+<mark>82</mark>
+</cd>
+<cd>
+<name>Jeni</name>
+<rollno>18BCS043</rollno>
+<mark>83</mark>
+</cd>
+<cd>
+<name>Pragathi</name>
+<rollno>18BCS038</rollno>
+<mark>85</mark>
+</cd>
+<cd>
+<name>Kavi</name>
+<rollno>18BCS086</rollno>
+<mark>88</mark>
+</cd>
+<cd>
+<name>Raghavi</name>
+<rollno>18BCS057</rollno>
+<mark>90</mark>
+</cd>
+
+</catalog>
+© 2021 GitHub, Inc.
